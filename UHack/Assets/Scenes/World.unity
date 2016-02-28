@@ -1409,6 +1409,10 @@ MonoBehaviour:
   x: 11
   y: 0
   z: 9
+  textIntro: {fileID: 0}
+  textTask1C: {fileID: 0}
+  textTask2C: {fileID: 0}
+  textTask3C: {fileID: 0}
   text: {fileID: 0}
 --- !u!212 &182568714
 SpriteRenderer:
